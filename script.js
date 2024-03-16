@@ -1,4 +1,4 @@
-alert(5)
+alert(5) 
 let block=document.querySelector('.block')
 let create_card_btn=document.querySelector('body')
 
